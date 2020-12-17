@@ -1,0 +1,19 @@
+{
+  "name": "hsq-socket",
+  "version": "1.0.0",
+  "description": "原生websocket封装的插件，可以监听与发送服务端约定好的所有事件,允许加入同名的不同内容的事件",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "websocket",
+    "消息通信"
+  ],
+  "author": "黄思沁 450555287@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.10.3",
+    "webpack-cli": "^4.2.0"
+  }
+}
